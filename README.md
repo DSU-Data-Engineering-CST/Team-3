@@ -155,7 +155,7 @@ The prediction component utilizes machine learning models to classify movies as 
 The project includes a comprehensive set of graphs to analyze data distributions and model performance:
 
 ### 1. Budget vs. Revenue
-![Budget vs Revenue](main/budget_vs_revenue.png)
+![Budget vs Revenue](budget_vs_revenue.png)
 
 ### 2. Genre Distribution
 ![Genre Distribution](visualizations/genre_distribution.png)

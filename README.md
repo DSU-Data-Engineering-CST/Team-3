@@ -158,31 +158,31 @@ The project includes a comprehensive set of graphs to analyze data distributions
 ![Budget vs Revenue](budget_vs_revenue.png)
 
 ### 2. Genre Distribution
-![Genre Distribution](visualizations/genre_distribution.png)
+![Genre Distribution](genre_distribution.png)
 
 ### 3. Popularity vs. Vote Count
-![Popularity vs Vote Count](visualizations/popularity_vs_vote_count.png)
+![Popularity vs Vote Count](popularity_vs_vote_count.png)
 
 ### 4. ROI Distribution
-![ROI Distribution](visualizations/roi_distribution.png)
+![ROI Distribution](roi_distribution.png)
 
 ### 5. Vote Average Histogram
-![Vote Average Histogram](visualizations/vote_average_hist.png)
+![Vote Average Histogram](vote_average_hist.png)
 
 ### 6. Runtime vs Success
-![Runtime vs Success](visualizations/runtime_vs_success.png)
+![Runtime vs Success](runtime_vs_success.png)
 
 ### 7. Yearly Success Trend
-![Yearly Success Trend](visualizations/yearly_success_trend.png)
+![Yearly Success Trend](yearly_success_trend.png)
 
 ### 8. Correlation Heatmap
-![Correlation Heatmap](visualizations/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 ### 9. Vote Average vs Revenue
-![Vote Average vs Revenue](visualizations/vote_avg_vs_revenue.png)
+![Vote Average vs Revenue](vote_avg_vs_revenue.png)
 
 ### 10. Budget Band vs Hit Rate
-![Budget Band vs Hit Rate](visualizations/budget_band_vs_hit_rate.png)
+![Budget Band vs Hit Rate](budget_band_vs_hit_rate.png)
 
 
 All graphs are saved as PNG files in the `visualizations` directory.

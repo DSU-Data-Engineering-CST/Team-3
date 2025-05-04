@@ -183,8 +183,6 @@ The project includes a comprehensive set of graphs to analyze data distributions
 ![Budget Band vs Hit Rate](budget_band_hit_rate.png)
 
 
-All graphs are saved as PNG files in the `visualizations` directory.
-
 ---
 
 

@@ -158,7 +158,7 @@ The project includes a comprehensive set of graphs to analyze data distributions
 ![Budget vs Revenue](budget_vs_revenue.png)
 
 ### 2. Genre Distribution
-![Genre Distribution](genre_distribution.png)
+![Genre Distribution](genre_vs_hit_count.png)
 
 ### 3. Popularity vs. Vote Count
 ![Popularity vs Vote Count](popularity_vs_vote_count.png)

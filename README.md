@@ -155,15 +155,17 @@ The prediction component utilizes machine learning models to classify movies as 
 The project includes a comprehensive set of graphs to analyze data distributions and model performance:
 
 1. **Budget vs. Revenue**: Scatter plot to observe the relationship between budget and revenue.
-2. **Genre Distribution**: Bar chart showing the count of movies per genre.
-3. **Popularity vs. Vote Count**: Scatter plot to analyze the correlation between popularity and vote count.
-4. **ROI Distribution**: Histogram displaying the distribution of ROI across movies.
-5. **Vote Average Histogram**: Histogram showing the distribution of average votes.
-6. **Runtime vs. Success**: Box plot comparing runtimes of hit and flop movies.
-7. **Yearly Success Trend**: Line chart depicting the number of hits and flops over the years.
-8. **Correlation Heatmap**: Heatmap to visualize correlations between numerical features.
-9. **Vote Average vs. Revenue**: Scatter plot to analyze the relationship between vote average and revenue.
-10. **Budget Bands vs. Hit Rate**: Bar chart showing hit rates across different budget ranges.
+   ![Alt text]("C:\Users\User\Downloads\Visualizations\budget_vs_revenue.png")
+
+3. **Genre Distribution**: Bar chart showing the count of movies per genre.
+4. **Popularity vs. Vote Count**: Scatter plot to analyze the correlation between popularity and vote count.
+5. **ROI Distribution**: Histogram displaying the distribution of ROI across movies.
+6. **Vote Average Histogram**: Histogram showing the distribution of average votes.
+7. **Runtime vs. Success**: Box plot comparing runtimes of hit and flop movies.
+8. **Yearly Success Trend**: Line chart depicting the number of hits and flops over the years.
+9. **Correlation Heatmap**: Heatmap to visualize correlations between numerical features.
+10. **Vote Average vs. Revenue**: Scatter plot to analyze the relationship between vote average and revenue.
+11. **Budget Bands vs. Hit Rate**: Bar chart showing hit rates across different budget ranges.
 
 All graphs are saved as PNG files in the `visualizations` directory.
 

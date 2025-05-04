@@ -35,7 +35,7 @@ A Python-based ETL (Extract, Transform, Load) pipeline designed to collect, proc
 * **Programming Language**: Python
 * **Data Processing**: Pandas, NumPy
 * **Database**: MySQL
-* **APIs**: TMDb API, IMDb datasets
+* **APIs**: Youtube API
 * **Machine Learning**: scikit-learn
 * **Visualization**: Matplotlib, Seaborn
 * **Environment Management**: dotenv
@@ -50,7 +50,7 @@ A Python-based ETL (Extract, Transform, Load) pipeline designed to collect, proc
 
 * Python 3.x installed
 * MySQL server installed and running
-* TMDb API key
+* Youtube API key
 
 ### Installation
 
@@ -79,7 +79,7 @@ A Python-based ETL (Extract, Transform, Load) pipeline designed to collect, proc
    Create a `.env` file in the root directory and add your TMDb API key and MySQL credentials:
 
    ```
-   TMDB_API_KEY=your_tmdb_api_key
+   Youtube_API_KEY=your_Youtube_api_key
    DB_HOST=localhost
    DB_USER=your_db_username
    DB_PASSWORD=your_db_password
@@ -115,8 +115,7 @@ The `main.py` script orchestrates the entire pipeline, utilizing threading to ru
 
 ## 📚 Data Sources
 
-* **TMDb API**: Provides movie metadata, including titles, genres, release dates, budgets, revenues, and user ratings.
-* **IMDb Datasets**: Offers additional information such as user reviews and ratings.
+* **Youtube API**: Provides movie metadata, including titles, genres, release dates, budgets, revenues, and user ratings.
 
 ---
 

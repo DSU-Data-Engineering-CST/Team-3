@@ -6,7 +6,7 @@ A Python-based ETL (Extract, Transform, Load) pipeline designed to collect, proc
 
 ## 📌 Table of Contents
 
-* [Features](Features)
+* [Features](#Features)
 * [Technology Stack](#technology-stack)
 * [Setup Instructions](#setup-instructions)
 * [Data Pipeline Architecture](#data-pipeline-architecture)

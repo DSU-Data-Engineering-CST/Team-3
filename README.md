@@ -173,7 +173,7 @@ The project includes a comprehensive set of graphs to analyze data distributions
 ![Runtime vs Success](runtime_vs_hit.png)
 
 ### 7. Yearly Success Trend
-![Yearly Success Trend](yearly_success_trend.png)
+![Yearly Success Trend](yearly_hit_trend.png)
 
 ### 8. Correlation Heatmap
 ![Correlation Heatmap](correlation_heatmap.png)

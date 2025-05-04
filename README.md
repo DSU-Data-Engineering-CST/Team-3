@@ -155,7 +155,7 @@ The prediction component utilizes machine learning models to classify movies as 
 The project includes a comprehensive set of graphs to analyze data distributions and model performance:
 
 1. **Budget vs. Revenue**: Scatter plot to observe the relationship between budget and revenue.
-   ![Alt text]("C:\Users\User\Downloads\Visualizations\budget_vs_revenue.png")
+   ![Alt text]("https://github.com/DSU-Data-Engineering-CST/TEAM-3/blob/main/budget_vs_revenue.png")
 
 3. **Genre Distribution**: Bar chart showing the count of movies per genre.
 4. **Popularity vs. Vote Count**: Scatter plot to analyze the correlation between popularity and vote count.

@@ -161,16 +161,16 @@ The project includes a comprehensive set of graphs to analyze data distributions
 ![Genre Distribution](genre_vs_hit_count.png)
 
 ### 3. Popularity vs. Vote Count
-![Popularity vs Vote Count](popularity_vs_vote_count.png)
+![Popularity vs Vote Count](popularity_vs_votes.png)
 
 ### 4. ROI Distribution
 ![ROI Distribution](roi_distribution.png)
 
 ### 5. Vote Average Histogram
-![Vote Average Histogram](vote_average_hist.png)
+![Vote Average Histogram](vote_avg_histogram.png)
 
 ### 6. Runtime vs Success
-![Runtime vs Success](runtime_vs_success.png)
+![Runtime vs Success](runtime_vs_hit.png)
 
 ### 7. Yearly Success Trend
 ![Yearly Success Trend](yearly_success_trend.png)
@@ -182,7 +182,7 @@ The project includes a comprehensive set of graphs to analyze data distributions
 ![Vote Average vs Revenue](vote_avg_vs_revenue.png)
 
 ### 10. Budget Band vs Hit Rate
-![Budget Band vs Hit Rate](budget_band_vs_hit_rate.png)
+![Budget Band vs Hit Rate](budget_band_hit_rate.png)
 
 
 All graphs are saved as PNG files in the `visualizations` directory.
